@@ -1,0 +1,10 @@
+# Features                          : Sensor        :Feature type
+
+1.Lane Departure Warning            : HC-SR04 Ultrasonic Sensor,UV Tx+Rx?   :Safety
+2.Infotenement                      : Thinger.io dashboard, lcd display?    :Luxury
+3.server/subscrition service etc    : vis STM32F407 cloud services?         :Luxury
+4.Speakers                          : Loud Speakers?                        :Aftermath[To attract attention]
+5.Reverse park assist               : HC-SR04 Ultrasonic Sensor             :Safety
+6.Automatic toggle head lamp        : BH1750 Light Sensor                   :Luxury
+7.Accident detection                : MPU6050 Accelerometer and Gyroscope,BME280 Pressure Sensor    :Aftermath
+8.

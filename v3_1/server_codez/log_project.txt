@@ -1,0 +1,343 @@
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (4 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
+Client null sending CONNECT
+Client null received CONNACK (0)
+Client null sending PUBLISH (d0, q2, r0, m1, 'v1/devices/me/telemetry', ... (5 bytes))
+Client null received PUBREC (Mid: 1)
+Client null sending PUBREL (m1)
+Client null received PUBCOMP (Mid: 1, RC:0)
+Client null sending DISCONNECT
